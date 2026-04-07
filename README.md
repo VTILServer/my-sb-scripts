@@ -22,5 +22,5 @@ I don't know man, you could try to deobfuscate it if you want, I wish you good l
 
 -----------------------
 # Credits
-Jack_Hase2 on ROBLOX for the obfuscator
-superdude123456 on ROBLOX for the massive overhall on the obfuscator codebase
+* Jack_Hase2 on ROBLOX for the obfuscator
+* superdude123456 on ROBLOX for the massive overhall on the obfuscator codebase
